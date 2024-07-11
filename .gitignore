@@ -1,0 +1,8 @@
+.vscode
+.vs
+bin
+obj
+appsettings.Development.json
+appsettings.json
+Log
+PublishProfiles
